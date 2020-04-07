@@ -38,6 +38,8 @@ Create environment and activate it
 $python3 -m venv tenv
 
 $source tenv/bin/activate
+
+pip install -r requirements.txt
 ```
 
 Run the application
