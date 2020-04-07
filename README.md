@@ -25,16 +25,25 @@ Geckodriver must be added to system $PATH
 Clone this repo
 
 ```
-Give the example
+git clone https://github.com/iamyv3s/twitter-like-bot.git
+
+cd twitter-like-bot
+
+
 ```
 
-And repeat
+Create environment and activate it
 
 ```
-until finished
+$python3 -m venv tenv
+
+$source tenv/bin/activate
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Run the application
+```
+$python3 app.py
+```
 
 
 ## Built With
